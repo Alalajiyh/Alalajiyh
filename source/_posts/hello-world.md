@@ -30,6 +30,8 @@ print("Hello World")
 System.out.print("Hello World");
 ```
 
+<!-- more -->
+
 ### sql
 ```sql
 select 'Hello World'
