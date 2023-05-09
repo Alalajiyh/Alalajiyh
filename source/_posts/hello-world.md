@@ -2,12 +2,7 @@
 title: Hello World
 tags: 
 - Hello world
-- 测试用
-- 镇站之宝
 categories:
-- 万恶之源
-- test code
-- Hello world
 ---
 
 ### javascript
